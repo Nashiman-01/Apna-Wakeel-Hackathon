@@ -1,0 +1,28 @@
+﻿# Environment variables
+.env
+.env.*
+**/.env
+**/.env.*
+!bknd/.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Node
+node_modules/
+dist/
+
+# IDE
+.vscode/
+.idea/
+
+# Python virtual environment
+bknd/.venv/
+
+bknd/.local_auth_store.json
+bknd/app.db
+bknd/uploads/
+bknd/.venv/
+.venv/
+apna-wakeel-frontend/file.jpe
